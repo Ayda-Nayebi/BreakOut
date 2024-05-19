@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: aa9eb0631ab0ecd4fab9def98f4fbf29
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 282
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447a424873656d544a4df45d3f69737a
+      internalID: -377659884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 282
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa9778fdbed6104f99534e393fc357e
+      internalID: -1510784051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 282
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efd4e520458b81449da5fba7e7efe62
+      internalID: -375963523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 282
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f1b2f7f82ca714ea09fd3e338970d2
+      internalID: -1050167592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 282
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7bb32998c14354480090bd0e292ac0
+      internalID: 1008886007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 149
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8eeff6e9e6c284a91f5ae265f8998c
+      internalID: 1010986972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_6
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 149
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6a601b9a9845e439190bde231325c5
+      internalID: 1682785457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_7
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 148
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e18c381c6261674997fd5e7a96d05da
+      internalID: -809475242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 149
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1a7ddc76c5e6349a7e4d5e0871cb22
+      internalID: 1363792776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_9
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 149
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1ed44ab28f43e428b4b817da70aee9
+      internalID: -160122474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 17
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb5f4880c67f814394d9934d2e79e7c
+      internalID: -1079304139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 17
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4434832a9c0b4346b0f309c1cac6de0
+      internalID: 2028841911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_12
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 16
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712ba3b656f2d8249948696679403f11
+      internalID: 535441204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_13
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 17
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568d261d543751648b2a39d6c0d5e818
+      internalID: -1905379536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_0: -377659884
+      png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_1: -1510784051
+      png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_10: -1079304139
+      png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_11: 2028841911
+      png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_12: 535441204
+      png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_13: -1905379536
+      png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_2: -375963523
+      png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_3: -1050167592
+      png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_4: 1008886007
+      png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_5: 1010986972
+      png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_6: 1682785457
+      png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_7: -809475242
+      png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_8: 1363792776
+      png-transparent-computer-icons-graphy-game-ui-miscellaneous-text-photography_9: -160122474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
